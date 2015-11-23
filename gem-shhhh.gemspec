@@ -2,17 +2,17 @@
 $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
-  s.name        = "gem-shut-the-fuck-up"
+  s.name        = "gem-shhh"
   s.version     = "1.0.0"
   s.authors     = ["Tim Pope"]
   s.email       = ["code@tpop"+'e.net']
-  s.homepage    = "https://github.com/tpope/gem-shut-the-fuck-up"
+  s.homepage    = "https://github.com/grosscol/gem-shhh"
   s.summary     = %q{Disable gem post installation messages}
   s.post_install_message = <<-EOF
 \e[35;5m
 ##################################################################
 #                                                                #
-# \e[0;1mWhen you Gem shut the fuck up, you must shut the fuck up hard!\e[0;5;35m #
+# \e[0;1mWhen you Gem Shhh, you must shhh the gem hard!\e[0;5;35m                 #
 #                                                                #
 ##################################################################
 \e[0m

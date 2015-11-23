@@ -1,14 +1,14 @@
-# Gem SHUT THE FUCK UP
+# Gem Shhh
 
-Fuck your changelog.  Fuck your party rules.  Fuck your entirely superfluous
+Bah to your changelog, your party rules, your entirely superfluous
 description of the gem I already decided to install.
 
-Gem Shut The Fuck Up turns off obnoxious and useless post install messages,
+Gem Shhh turns off obnoxious and useless post install messages,
 which happens to be all of them.
 
 ## Installation
 
-    $ gem install gem-shut-the-fuck-up
+    $ gem install gem-shhh
 
 ## Usage
 
@@ -21,5 +21,5 @@ which happens to be all of them.
 Copyright © Tim Pope
 
 This work is free. You can redistribute it and/or modify it under the
-terms of the Do What The Fuck You Want To Public License, Version 2,
+terms of the Do What The F... You Want To Public License, Version 2,
 as published by Sam Hocevar. See the COPYING file for more details.
